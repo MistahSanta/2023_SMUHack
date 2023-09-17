@@ -67,14 +67,7 @@ const Header = (props: {
         </div>
 
         <div className="block">
-          <Link className="block" href="/">
-            <Image
-              width={50}
-              height={50}
-              src={"/images/logo/CBRE_logo.jpg"}
-              alt="Logo"
-            />
-          </Link>
+
         </div>
 
         <div className="flex items-center gap-3 2xsm:gap-7">
