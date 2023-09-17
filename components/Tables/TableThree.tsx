@@ -55,7 +55,7 @@ const TableThree = () => {
                   <h5 className="font-medium text-black dark:text-white">
                     {Item.name}
                   </h5>
-                  <p className="text-sm">${Item.price}</p>
+              
                 </td>
                 <td className="border-b border-[#eee] py-5 px-4 dark:border-strokedark">
                   <p className="text-black dark:text-white">
